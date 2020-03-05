@@ -5,7 +5,7 @@ WordPress Theme to start
 ## Features
 
 * Sass for stylesheets
-* Modern JavaScript with Babel
+* Babel JavaScript 
 * [Gulp](https://gulpjs.com/) for compiling assets, optimizing images, and concatenating and minifying files
 * [Browsersync](http://www.browsersync.io/) for synchronized browser testing
 * [Bootstrap](https://getbootstrap.com/)
