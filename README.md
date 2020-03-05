@@ -1,6 +1,6 @@
 # Startheme Theme
 
-WordPress Theme to start
+WordPress Theme to start with Gulp and Bootstrap
 
 ## Features
 
