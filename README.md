@@ -1,6 +1,6 @@
 # Startheme Theme
 
-Theme to start
+WordPress Theme to start
 
 ## Features
 
